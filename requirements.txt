@@ -1,0 +1,34 @@
+
+# LangChain and Agentic AI
+langchain
+langchain-openai
+langchain-text-splitters
+langgraph
+langgraph-checkpoint-sqlite
+langsmith
+
+# LLM integration
+openai
+tiktoken
+groq
+
+# Environment variables
+python-dotenv
+
+# Database and persistence
+aiosqlite
+sqlalchemy
+sqlite-vec
+
+# Data processing
+numpy
+pandas
+
+# Web application
+streamlit
+
+# Utilities
+httpx
+requests
+pydantic
+pyyaml
